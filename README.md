@@ -1,6 +1,6 @@
 # Dev-Term Flashcards
 
-live demo - [dev-terms-collection.vercel.app](https://dev-terms-collection.vercel.app/)
+live demo - https://dev-flash-cards-phi.vercel.app/
 
 This is my **React mini project** — an interactive flashcard app designed to help users learn programming terms in a simple and engaging way.
 
